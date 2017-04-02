@@ -3,10 +3,5 @@ hello 3
 hello 4
 hello 5
 hello 5.1
-<<<<<<< HEAD
-hello 6.1
-
-
-=======
 hello 6
->>>>>>> e474cafa10d198ee9f739e0670b878c1096e9ab8
+hello 6.1
